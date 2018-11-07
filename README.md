@@ -1,6 +1,6 @@
-# Kotlin Intro
+# What's New in Kotlin
 
-A lightning-quick introduction to Kotlin for Java Developers.
+An overview of new Kotlin features.
 
 ----
 
