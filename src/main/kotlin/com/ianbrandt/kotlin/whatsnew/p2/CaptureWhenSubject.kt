@@ -6,7 +6,7 @@ fun main() {
 	// Before...
 //	val theAnswer = 6
 //	when (theAnswer) {
-//		...
+//		theAnswer ->
 //	}
 //	println(theAnswer)
 

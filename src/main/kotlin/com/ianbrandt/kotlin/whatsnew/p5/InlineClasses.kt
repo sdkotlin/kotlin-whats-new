@@ -19,10 +19,11 @@ inline class SSNumber(val value: String) {
 	}
 }
 
-data class Person(val first: FirstName,
-				  val last: LastName,
-				  val age: Age,
-				  val social: SSNumber)
+data class Person(
+	val first: FirstName,
+	val last: LastName,
+	val age: Age,
+	val social: SSNumber)
 
 fun main() {
 
