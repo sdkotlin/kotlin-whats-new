@@ -3,7 +3,6 @@ import org.gradle.api.tasks.wrapper.Wrapper.DistributionType
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-	java
 	kotlin("jvm") version "1.3.10"
 	id("com.github.ben-manes.versions") version "0.20.0"
 }
@@ -14,7 +13,6 @@ version = "1.0-SNAPSHOT"
 repositories {
 	mavenCentral()
 	jcenter()
-	maven("https://dl.bintray.com/kotlin/kotlin-eap")
 }
 
 dependencies {
